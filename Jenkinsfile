@@ -1,6 +1,6 @@
 pipeline{
  environment {
- registry = "qatrainer/vatcal"
+ registry = "qatrainer/vat-webcalc"
         registryCredentials = "dockerhub_id"
         dockerImage = ""
     }
